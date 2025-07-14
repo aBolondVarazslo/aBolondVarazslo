@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @aBolondVarazslo
-- 👀 I’m interested in Coding and Cyber-Security
-- 🌱 I’m currently learning Python and Offensive Cyber-Security
-- 💞️ I’m not currently looking to collaborate
-- 📫 How to reach me email: bolondvarazslo@gmail.com
-- 😄 Pronouns: he/him
+# aBolondVarazslo
 
-<!---
-aBolondVarazslo/aBolondVarazslo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Projects
+- **[Oizys](https://github.com/aBolondVarazslo/Oizys-Python)** — Custom programming language + interpreter. Focused on math parsing, variables, and factorials.
+- **[ErisOS](https://github.com/aBolondVarazslo/ErisOS)** — Experimental OS built from scratch. Has a hand-rolled bootloader that enables the A20 line. Still early, breaks often.
+- **[Python Port-Prober](https://github.com/aBolondVarazslo/Python-Port-Prober)** — Lightweight IP and port range scanner written in Python. Built to test quickly, not look pretty.
+
+### Misc
+- Open source, unfinished, mostly for learning
+- Feedback welcome
+- Email: bolondvarazslo@gmail.com
