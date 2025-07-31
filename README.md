@@ -8,4 +8,4 @@
 ### Misc
 - Open source, unfinished, mostly for learning
 - Feedback welcome
-- Email: bolondvarazslo@gmail.com
+- Email: abolondvarazslo@gmail.com
